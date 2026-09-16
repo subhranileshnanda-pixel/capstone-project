@@ -45,7 +45,7 @@ Nginx is used as the web server.
 
 The website is accessible through:
 
-http://EC2-PUBLIC-IP
+http://18.60.156.149
 
 ## Security
 
